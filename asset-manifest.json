@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vmo-frontend/static/css/main.4cc878e7.css",
+    "main.js": "/vmo-frontend/static/js/main.68198cb4.js",
+    "index.html": "/vmo-frontend/index.html",
+    "main.4cc878e7.css.map": "/vmo-frontend/static/css/main.4cc878e7.css.map",
+    "main.68198cb4.js.map": "/vmo-frontend/static/js/main.68198cb4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4cc878e7.css",
+    "static/js/main.68198cb4.js"
+  ]
+}
