@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/vmo-frontend/static/css/main.052a51c6.css",
-    "main.js": "/vmo-frontend/static/js/main.8d18262c.js",
+    "main.css": "/vmo-frontend/static/css/main.78739db1.css",
+    "main.js": "/vmo-frontend/static/js/main.10762ac3.js",
     "static/media/bg-main.webp": "/vmo-frontend/static/media/bg-main.9955ed5fb79e176d2bce.webp",
     "index.html": "/vmo-frontend/index.html",
-    "main.052a51c6.css.map": "/vmo-frontend/static/css/main.052a51c6.css.map",
-    "main.8d18262c.js.map": "/vmo-frontend/static/js/main.8d18262c.js.map"
+    "main.78739db1.css.map": "/vmo-frontend/static/css/main.78739db1.css.map",
+    "main.10762ac3.js.map": "/vmo-frontend/static/js/main.10762ac3.js.map"
   },
   "entrypoints": [
-    "static/css/main.052a51c6.css",
-    "static/js/main.8d18262c.js"
+    "static/css/main.78739db1.css",
+    "static/js/main.10762ac3.js"
   ]
 }
